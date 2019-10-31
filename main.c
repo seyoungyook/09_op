@@ -14,7 +14,7 @@ int main(void) {
 		grade[i] = rand()%100;
 	}
 	
-	for (i=0;i=5;i++)
+	for (i=0;i<5;i++)
 	{
 		score[i] = grade[i];
 	
